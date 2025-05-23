@@ -29,7 +29,9 @@
 
     Una vez creado el servicio de app de Azure, lo podemos ver en el costado izquierdo de la ventana de Visual Studio Code o en el portal de Azure
 ![alt text](image-6.png)   
-  
+
+    Link despliegue en Azure: https://ecisaludbackendazure-bqhbbvekhvefa3d4.westeurope-01.azurewebsites.net/
+
 
 
 ## Endpoints
